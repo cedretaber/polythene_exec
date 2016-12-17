@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+
+front/node_modules
+front/dist
+public/js
+public/css
